@@ -1,0 +1,8 @@
+def hello():
+    print('Hello, world!')
+print(hello())
+
+def test():
+    print('Test Printing!!!')
+    
+print(test())

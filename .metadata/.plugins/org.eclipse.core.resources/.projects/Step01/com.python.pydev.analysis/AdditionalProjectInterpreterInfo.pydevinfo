@@ -1,0 +1,91 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Edu/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Step01/com.python.pydev.analysis/v2_indexcache
+Ex_for.for_01|1574912255042240000|/Edu/eclipse/workspace/Python/Step01/Ex_for/for_01.py
+Ex_for.for_02|1574908405307000000|/Edu/eclipse/workspace/Python/Step01/Ex_for/for_02.py
+Ez_list.list_05|1574993474764819000|/Edu/eclipse/workspace/Python/Step01/Ez_list/list_05.py
+Ex_String.string_02|1575005386709794000|/Edu/eclipse/workspace/Python/Step01/Ex_String/string_02.py
+Ex_Print.print_01|1574920244392058000|/Edu/eclipse/workspace/Python/Step01/Ex_Print/print_01.py
+Ex_String.string_01|1574998282075252000|/Edu/eclipse/workspace/Python/Step01/Ex_String/string_01.py
+Ex_Gugudan.Gugudan|1574987666645000000|/Edu/eclipse/workspace/Python/Step01/Ex_Gugudan/Gugudan.py
+Ex_while.while_01|1574904359532509000|/Edu/eclipse/workspace/Python/Step01/Ex_while/while_01.py
+Ex_while.while_02|1574909340426284000|/Edu/eclipse/workspace/Python/Step01/Ex_while/while_02.py
+Ex_Languege.ex_01|1574832045820624000|/Edu/eclipse/workspace/Python/Step01/Ex_Languege/ex_01.py
+Ex_Languege.ex_02|1574840042188811000|/Edu/eclipse/workspace/Python/Step01/Ex_Languege/ex_02.py
+Ex_Languege.ex_03|1574849069504233000|/Edu/eclipse/workspace/Python/Step01/Ex_Languege/ex_03.py
+Ex_Turtle.turtle_02|1574925210454771000|/Edu/eclipse/workspace/Python/Step01/Ex_Turtle/turtle_02.py
+Ez_list.list_03|1574933688035644000|/Edu/eclipse/workspace/Python/Step01/Ez_list/list_03.py
+Ex_if.if_01|1574831771803676000|/Edu/eclipse/workspace/Python/Step01/Ex_if/if_01.py
+Ex_Turtle.turtle_01|1574923892484096000|/Edu/eclipse/workspace/Python/Step01/Ex_Turtle/turtle_01.py
+Ez_list.list_04|1574991634603216000|/Edu/eclipse/workspace/Python/Step01/Ez_list/list_04.py
+Ez_list.list_01|1574928917174476000|/Edu/eclipse/workspace/Python/Step01/Ez_list/list_01.py
+Ez_list.list_02|1574929851213223000|/Edu/eclipse/workspace/Python/Step01/Ez_list/list_02.py
+-- END DISKCACHE
+-- START DICTIONARY
+30
+29=/Edu/eclipse/workspace/Python/Step01/Ex_if/if_01.py
+15=/Edu/eclipse/workspace/Python/Step01/Ex_Languege/ex_02.py
+18=Ex_String.string_02
+10=Ex_String.string_01
+22=Ex_while.while_01
+5=/Edu/eclipse/workspace/Python/Step01/Ez_list/list_02.py
+26=Ex_while.while_02
+25=/Edu/eclipse/workspace/Python/Step01/Ex_while/while_02.py
+11=/Edu/eclipse/workspace/Python/Step01/Ez_list/list_04.py
+23=/Edu/eclipse/workspace/Python/Step01/Ex_Print/print_01.py
+17=/Edu/eclipse/workspace/Python/Step01/Ex_String/string_02.py
+8=Ez_list.list_03
+12=Ez_list.list_04
+4=Ez_list.list_01
+6=Ez_list.list_02
+20=Ez_list.list_05
+1=/Edu/eclipse/workspace/Python/Step01/Ex_Languege/ex_03.py
+13=/Edu/eclipse/workspace/Python/Step01/Ex_Languege/ex_01.py
+24=Ex_Print.print_01
+3=/Edu/eclipse/workspace/Python/Step01/Ez_list/list_01.py
+21=/Edu/eclipse/workspace/Python/Step01/Ex_while/while_01.py
+7=/Edu/eclipse/workspace/Python/Step01/Ez_list/list_03.py
+9=/Edu/eclipse/workspace/Python/Step01/Ex_String/string_01.py
+14=Ex_Languege.ex_01
+19=/Edu/eclipse/workspace/Python/Step01/Ez_list/list_05.py
+16=Ex_Languege.ex_02
+2=Ex_Languege.ex_03
+28=Ex_Turtle.turtle_02
+30=Ex_if.if_01
+27=/Edu/eclipse/workspace/Python/Step01/Ex_Turtle/turtle_02.py
+-- END DICTIONARY
+-- START TREE 1
+29
+a|10|a!1^6#1*19@a!3^2#1*35@a!5^1#1*51@a!7^1#1*67@a!9^3#1*83@a!11^4#1*99@a!13^1#1*115@a!15^1#1*131@a!17^24#1*147@a!19^2#1*163@
+aa|1|aa!13^19#1*115@
+b|9|b!7^29#1*67@b!17^27#1*147@b!13^4#1*115@b!9^7#1*83@b!11^31#1*99@b!19^3#1*163@b!15^2#1*131@b!1^7#1*19@b!5^2#1*51@
+bb|1|bb!13^22#1*115@
+big|1|big!7^12#1*67@
+c|8|c!1^8#1*19@c!9^32#1*83@c!7^33#1*67@c!17^29#1*147@c!11^33#5*99@c!13^7#1*115@c!15^3#1*131@c!19^32#9*163@
+cof|1|coffee!21^42#1*179@
+d|5|d!13^10#1*115@d!9^34#1*83@d!15^63#1*131@d!1^38#1*19@d!7^37#1*67@
+e|1|e!13^13#1*115@
+f|2|f!1^39#1*19@f!13^16#1*115@
+fru|1|fruits!1^46#1*19@
+h|2|h!15^46#1*131@h!1^37#1*19@
+hel|1|hello!15^12#1*131@
+i|4|i!23^21#1*195@i!25^64#1*211@i!5^29#1*51@i!19^18#1*163@
+ind|1|index!5^30#1*51@
+j|1|j!19^20#5*163@
+lux|3|lux1!15^84#1*131@lux!15^77#1*131@lux2!15^86#1*131@
+m|1|m!15^57#1*131@
+mon|1|money!21^47#5*179@
+n|1|n!27^2#1*227@
+num|1|number!21^48#5*179@
+pat|1|path!17^33#1*147@
+poc|1|pocket!29^40#1*243@
+s|1|s!15^40#1*131@
+sma|1|small!7^4#1*67@
+t|1|t!17^35#1*147@
+tab|1|table!9^11#1*83@
+x|3|x!9^73#1*83@x!1^1#1*19@x!17^7#1*147@
+y|2|y!17^8#1*147@y!9^74#1*83@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

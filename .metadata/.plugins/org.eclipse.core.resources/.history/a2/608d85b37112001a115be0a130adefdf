@@ -1,0 +1,83 @@
+x={'a':10,'b':20,'c':30,'d':40} # key와 value 값 생성
+print(x.setdefault('e')) #배열 추가
+print(x.setdefault('f', 100)) #배열 값과 같이 추가
+x.update(a=50) #배열 값 갱신
+print(x)
+x.update(e=124)
+print(x)
+x.update(a=25, b=55, f=224) #배열 값 여러개 갱신
+print(x)
+g=x.pop('a') # key,value 쌍으로 삭제하기
+print(g)
+x.update(h=345) 
+print(x)
+g=x.get('c') # key 의 값 가져오기
+print(g)
+
+for i in x:
+    print(i, end='  ')
+ 
+#========= key, value 값 출력하기 ==================================   
+for key, value in x.items(): #key와 value 값 쌍으로 가져오기
+    print(key, value)
+    
+keys = ['a','b','c','d']
+x = {key: value for key, value in dict.fromkeys(keys).items()}
+print(x)
+a = x.keys()
+print(a)
+b = x.values()
+print(b)
+for key, value in x.items():
+    print(key, value)
+for key in x.keys(): # key 값만 출력
+    print(key)
+for value in x.values(): # value 값만 출력
+    print(value)
+x = {key: 0 for key in dict.fromkeys(keys)}
+print(x)
+
+#====================== 행성들간의 정보 ===========================
+planets = {
+    'Mercury':{
+        'radius' : 2549.7,
+        'mass' : 3.3022E+23,
+        'orbital_period': 87.968
+        },
+    'Venus':{
+        'radius' : 1200.3,
+        'mass' : 2.234E+20,
+        'orbital_period': 23.43
+        }, #공전 주기 
+        
+    'Mars':{
+        'radius' : 800.3,
+        'mass' : 4.234E+20,
+        'orbital_period': 12.43 
+        },
+    'Earth':{
+        'radius' : 3000.3,
+        'mass' : 9.234E+20,
+        'orbital_period': 1.0
+        }
+    }
+p=planets
+print(p['Venus']['mass']) #venus의 mass 값 출력
+s=p['Mars']['orbital_period']
+print(s)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

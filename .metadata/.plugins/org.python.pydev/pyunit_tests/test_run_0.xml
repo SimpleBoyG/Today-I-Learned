@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+<summary errors="1" failures="0" finished="true" name="Test Run: 0" tests="0" total_time="Finished in: 0.00 secs."/>
+<test location="/Edu/eclipse/workspace/Python/Py_Ex01/If/py_if.py" status="error" test="py_if" time="0">
+<stdout/>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "/home/jjs/eclipse/plugins/org.python.pydev.core_7.4.0.201910251334/pysrc/_pydev_runfiles/pydev_runfiles.py", line 468, in __get_module_from_str
+    mod = __import__(modname)
+  File "/Edu/eclipse/workspace/Python/Py_Ex01/If/py_if.py", line 1
+    print(1,end='')
+               ^
+SyntaxError: invalid syntax
+ERROR: Module: py_if could not be imported (file: /Edu/eclipse/workspace/Python/Py_Ex01/If/py_if.py).
+]]></stderr>
+</test>
+<launch mode="run">
+<launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="Py_Ex01 py_if.py"/>
+]]></launch_memento>
+</launch>
+</pydev-testsuite>

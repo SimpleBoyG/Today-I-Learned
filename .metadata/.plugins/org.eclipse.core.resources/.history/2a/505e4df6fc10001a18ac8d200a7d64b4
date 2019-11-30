@@ -1,0 +1,75 @@
+# #============= 기본 while 문 =====================================
+# 
+# treeHit=0
+# while treeHit < 10 : #나무를 찍는 횟수가 10보다 작으면 반복한다
+#     treeHit = treeHit + 1
+#     print("나무를 %d번 찍었습니다." %treeHit)
+#     if treeHit == 10 :
+#         print("나무가 넘어갑니다.")
+
+#=============== 입력한 수로 whlie문 빠져나가기 ===================
+# prompt = """
+# 1. Add
+# 2. Del
+# 3. List
+# 4. Quit
+# 
+# Enter number"""
+# number=0
+# while number != 4:
+#     print(prompt)
+#     number = int(input())
+
+#============== while 문 강제로 빠져나가기 =========================
+# coffee = 10
+# money = 300
+# print("커피 자판기를 작동 시킵니다.")
+# 
+# while money :
+#     coffee = coffee - 1
+#     money = money - 50
+#     print("커피가 나왔습니다.")
+#     print("남은 커피는 %d 입니다." % coffee)
+#     print("남은 돈은 %d 입니다." % money)
+#     
+#     if not money:
+#         print("커피 판매가 종료되었습니다.")
+#         print("남은 수량은 %d 입니다. 커피를 채워주세요."%coffee)
+#         break
+
+#============== 커피 자판기 만들기 =================================
+coffee = 10
+
+print("커피 자판기를 작동 시킵니다.")
+ 
+while True :
+    money=int(input("돈을 넣어 주세요 :")) # 동전 넣기
+    number=int(input("몇 잔을 드시고 싶어?\n"))
+    
+   
+    
+
+     
+    if money>=300 and number>=1:
+        
+        coffee = coffee - number
+        money = money-(300*number)
+        
+        if money<0:
+            print("수량을 잘 못 입력 하셨습니다.")
+        else:    
+            print("커피가 나왔습니다.")
+            print("남은 커피는 %d잔 입니다." % coffee)
+            print("거스름돈은 %d원 입니다." % money)
+        
+            break
+    
+   
+        
+             
+        
+  
+        
+        
+
+

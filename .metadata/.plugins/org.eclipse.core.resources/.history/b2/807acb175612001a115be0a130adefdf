@@ -1,0 +1,4 @@
+#=================형식 지정========================
+a='Hello, {0} {2} {1}'.format('Python', 'Script'. 3.6)
+print(a)
+a='Hello, {0} {2} {1} {2} {1}'.format('Python', 'Script'. 3.6)

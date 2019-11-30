@@ -1,0 +1,35 @@
+def hello():
+    print('Hello, world!')
+hello()
+
+def test():
+    print('Test Printing!!!')
+test()
+
+def Add(a,b):
+    print(a+b)
+    
+def Minus(a,b):
+    print(a-b)
+    
+Add(2,5)
+Minus(4,6)
+
+def not_ten(a):
+    if a == 10:
+        return 
+    print(a,'number', sep='')
+not_ten(10)
+not_ten(1)
+
+def not_ten2(a):
+    if a == 10:
+        print('Correct')
+    else:
+        print('Wrong')
+    
+not_ten2(10)
+not_ten2(5)
+    
+
+

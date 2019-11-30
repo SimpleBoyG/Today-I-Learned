@@ -1,0 +1,15 @@
+def hello():
+    print('Hello, world!')
+print(hello())
+
+def test():
+    print('Test Printing!!!')
+print(test())
+
+def Add(a,b):
+    a+b
+    
+def Minus(a,b):
+    a-b
+    
+print(Add(a,b))

@@ -1,0 +1,8 @@
+content-types/org.eclipse.cdt.autotools.core.autogenScript/charset=UTF-8
+content-types/org.eclipse.cdt.autotools.core.configureScript/charset=UTF-8
+content-types/org.eclipse.cdt.managedbuilder.llvm.ui.llvmExecutable/charset=UTF-8
+content-types/org.eclipse.core.runtime.text/charset=UTF-8
+content-types/org.eclipse.eclemma.core.executiondata/charset=UTF-8
+content-types/org.eclipse.jdt.core.javaClass/charset=UTF-8
+content-types/org.eclipse.jpt.common.core.content.jar/charset=UTF-8
+eclipse.preferences.version=1

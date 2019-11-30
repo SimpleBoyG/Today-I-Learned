@@ -1,0 +1,55 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Edu/eclipse/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Step02/com.python.pydev.analysis/v2_indexcache
+Ex_Commend.dict|1575010456003175000|/Edu/eclipse/workspace/Python/Step02/Ex_Commend/dict.py
+Ex_File.file_02|1575016024748169000|/Edu/eclipse/workspace/Python/Step02/Ex_File/file_02.py
+Ex_File.file_01|1575016024768179000|/Edu/eclipse/workspace/Python/Step02/Ex_File/file_01.py
+Ex_Function.function_01|1575020876537094000|/Edu/eclipse/workspace/Python/Step02/Ex_Function/function_01.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+5=/Edu/eclipse/workspace/Python/Step02/Ex_File/file_02.py
+3=/Edu/eclipse/workspace/Python/Step02/Ex_Commend/dict.py
+1=/Edu/eclipse/workspace/Python/Step02/Ex_Function/function_01.py
+7=/Edu/eclipse/workspace/Python/Step02/Ex_File/file_01.py
+4=Ex_Commend.dict
+6=Ex_File.file_02
+2=Ex_Function.function_01
+8=Ex_File.file_01
+-- END DICTIONARY
+-- START TREE 1
+30
+a|2|a!1^76#1*19@a!3^27#1*35@
+add|3|Add!1^9#5*18@address!5^4#1*51@add_sub!1^34#5*18@
+age|1|age!5^3#1*51@
+b|2|b!1^83#1*19@b!3^29#1*35@
+c|1|c!3^88#1*35@
+div|3|div!1^63#5*18@divide!1^40#5*18@div_mod!1^55#5*18@
+e|1|e!1^84#1*19@
+f|1|f!7^15#1*67@
+fil|1|file!7^2#1*67@
+fru|1|fruits!3^72#1*35@
+g|1|g!3^10#1*35@
+h|1|h!7^27#1*67@
+hel|1|hello!1^1#5*18@
+i|1|i!3^91#1*35@
+j|1|j!3^95#1*35@
+key|1|keys!3^24#1*35@
+m|1|m!7^16#1*67@
+min|1|Minus!1^12#5*18@
+mod|1|mod!1^52#5*18@
+mul|1|mul_div!1^43#5*18@
+nam|1|name!5^2#1*51@
+not|2|not_ten2!1^25#5*18@not_ten!1^18#5*18@
+p|1|p!3^64#1*35@
+pla|1|planets!3^63#1*35@
+pri|1|print_numbers!1^69#5*18@
+pt_|1|pt_num!1^79#5*18@
+s|2|s!3^66#1*35@s!7^7#1*67@
+sco|1|scores!5^5#1*51@
+tes|1|test!1^5#5*18@
+x|1|x!3^1#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

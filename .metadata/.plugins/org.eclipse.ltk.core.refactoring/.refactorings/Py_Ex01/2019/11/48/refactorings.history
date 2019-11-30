@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Py_Ex01/If/__init__.py&apos; to &apos;If_Ex_01.py&apos;" description="Rename resource &apos;__init__.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="If/__init__.py" name="If_Ex_01.py" stamp="1574815052852" updateReferences="true"/>
+</session>
