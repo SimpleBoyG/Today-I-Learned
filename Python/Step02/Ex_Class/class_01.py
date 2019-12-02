@@ -130,8 +130,8 @@ class Person6 :
 
 terry = Person6('테리', 20, '서울시 서초구', 10000)
 terrypay = terry.pay(5000)
-print(terrypay)
+terrypay
 terrypay = terry.pay(3000)
-print(terrypay)
+terrypay
 terrypay = terry.pay(3000)
-print(terrypay)
+terrypay
