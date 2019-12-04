@@ -63,11 +63,25 @@
 #     print('코드 실행이 끝났습니다.')
 
 #================ 3의 배수가 아닙니다 ======================================
-try:
-    x = int(input('3의 배수를 입력하세요!!!!!'))
-    if x % 3 != 0:
-        raise Exception('3의 배수가 아닙니다')
-    print(x)
-except Exception as e:
-    print('예외가 발생 했습니다.',e)
+# try:
+#     x = int(input('3의 배수를 입력하세요!!!!!'))
+#     if x % 3 != 0:
+#         raise Exception('3의 배수가 아닙니다')
+#     print(x)
+# except Exception as e:
+#     print('예외가 발생 했습니다.',e)
 
+def three_multiple():
+    try:
+        x = int(input('3의 배수를 입력하세요'))
+        if x % 3 != 0:
+            raise Exception('3의 배수가 아닙니다.')
+        print(x)
+    except Exception as  e:
+        print('three multiple 함수에서 예외가 발생 했습니다.',e)
+        raise #발생을 시킨다.
+
+try:
+    three_multiple()
+except Exception as e:
+    print('스크립트 파일에서 예외가 발생했습니다.')
