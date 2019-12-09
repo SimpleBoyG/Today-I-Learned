@@ -119,10 +119,18 @@ print(a)
 print()
 
 # max(iterable)
-# 인수로 박복 가능한 자료형을 입력받아 그 최대값을 출력하는 함수
+# 인수로 반복 가능한 자료형을 입력받아 그 최대값을 출력하는 함수
 print('10.')
 print(max([1,2,100]))
 print(max('python'))
+print()
+
+# min(iterable)
+# 최소값을 출력
+print('11.')
+print(min([1,2,100]))
+print(min("python"))
+
 
 
 
